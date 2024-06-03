@@ -1,8 +1,10 @@
 # scripts
 
-Simple and useful shell scripts for SBC datalogging.
+Simple and useful shell scripts notes:
 
-## Raspberry Pi
+
+#### Raspberry Pi
+**temperature** for SBC datalogging.
 
 - As in the example, create the three files in a directory of your choice;
 - Grant `chmod u+x` to the `.sh` files;
